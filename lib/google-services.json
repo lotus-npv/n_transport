@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1071117148671",
+    "project_id": "n-transport",
+    "storage_bucket": "n-transport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071117148671:android:fcc676dbd1dae5287fc7ca",
+        "android_client_info": {
+          "package_name": "com.viper.n_transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071117148671-bfdgusotnimrd90evsampb514earrnug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.viper.n_transport",
+            "certificate_hash": "bae936ad29c2085d8680ee89ccb562d8798f3446"
+          }
+        },
+        {
+          "client_id": "1071117148671-fn6usi1tvf5k1629j9ut441p7bngim5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4JaZ0hdJdjGU9ZCmxtSaRPtBV8s7k104"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071117148671-fn6usi1tvf5k1629j9ut441p7bngim5c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1071117148671-gp3gdotcoa3tp6vjjqn98k0cafb7slvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.viper.nTransport"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
